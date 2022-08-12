@@ -24,7 +24,7 @@ npm run setup
 npm start
 ```
 
-- @nativescript
+- [@nativescript/nativescript-bidipick](packages/nativescript-bidipick/README.md)
 
 # How to use?
 
