@@ -1,6 +1,6 @@
 {
-  "name": "@nativescript/nativescript-bidipick",
-  "version": "1.0.9",
+  "name": "nativescript-bidipick",
+  "version": "1.0.15",
   "description": "Add a plugin description",
   "main": "index",
   "typings": "index.d.ts",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/guymatus/nativescript-bidipicker.git"
+    "url": "https://github.com/guymatus/nativescript-bidipick.git"
   },
   "keywords": [
     "NativeScript",
