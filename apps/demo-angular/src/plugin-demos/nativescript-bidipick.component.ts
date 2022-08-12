@@ -1,6 +1,6 @@
 import { Component, NgZone } from '@angular/core';
 import { DemoSharedNativescriptBidipick } from '@demo/shared';
-import {} from './nativescript-bidipick.module';
+import {} from 'file:../../dist/packages/nativescript-bidipick';
 
 @Component({
   selector: 'demo-nativescript-bidipick',

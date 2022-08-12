@@ -1,6 +1,6 @@
 {
   "name": "@nativescript/nativescript-bidipick",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "Add a plugin description",
   "main": "index",
   "typings": "index.d.ts",
