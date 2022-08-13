@@ -22,11 +22,12 @@
     "iOS",
     "Android"
   ],
-  "author": {
-    "name": "guymatos"
-  },
+  "author": "guymatos",
   "bugs": {
     "url": "https://github.com/guymatus/nativescript-bidipick/issues"
   },
-  "homepage": "https://github.com/guymatus/nativescript-bidipick#readme"
+  "homepage": "https://github.com/guymatus/nativescript-bidipick#readme",
+  "scripts": {
+    "test": "exit 0"
+  }
 }
