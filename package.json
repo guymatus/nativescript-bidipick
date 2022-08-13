@@ -1,7 +1,6 @@
 {
-  "name": "@guymatus/plugins",
-  "version": "0.0.0",
-  "license": "MIT",
+  "license": "Apache-2.0",
+  "name": "nativescript-bidipick.git",
   "scripts": {
     "postinstall": "husky install && npx ts-patch install",
     "setup": "npx rimraf node_modules dist tmp yarn.lock && yarn config set ignore-engines true && ns package-manager set npm && yarn",
@@ -53,11 +52,11 @@
   "main": "jest.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guymatus/nativescript-bidipicker.git"
+    "url": "git+https://github.com/guymatus/nativescript-bidipick.git"
   },
   "author": "guymatos",
   "bugs": {
-    "url": "https://github.com/guymatus/nativescript-bidipicker/issues"
+    "url": "https://github.com/guymatus/nativescript-bidipick/issues"
   },
-  "homepage": "https://github.com/guymatus/nativescript-bidipicker#readme"
+  "homepage": "https://github.com/guymatus/nativescript-bidipick#readme"
 }
