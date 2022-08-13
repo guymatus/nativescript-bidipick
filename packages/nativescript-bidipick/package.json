@@ -1,6 +1,7 @@
 {
+  "license": "Apache-2.0",
   "name": "nativescript-bidipick.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add a plugin description",
   "main": "index",
   "typings": "index.d.ts",
@@ -22,14 +23,10 @@
     "Android"
   ],
   "author": {
-    "name": "NativeScript",
-    "email": "oss@nativescript.org"
+    "name": "guymatos"
   },
   "bugs": {
-    "url": "https://github.com/NativeScript/plugins/issues"
+    "url": "https://github.com/guymatus/nativescript-bidipick/issues"
   },
-  "license": "Apache-2.0",
-  "homepage": "https://github.com/NativeScript/plugins",
-  "readmeFilename": "README.md",
-  "bootstrapper": "@nativescript/plugin-seed"
+  "homepage": "https://github.com/guymatus/nativescript-bidipick#readme"
 }
