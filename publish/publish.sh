@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PACK_DIR=package;
+PACK_DIR=publish;
 
 publish() {
     cd $PACK_DIR

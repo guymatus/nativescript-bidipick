@@ -1,8 +1,8 @@
 #!/bin/bash
 
-SOURCE_DIR=../src;
-TO_SOURCE_DIR=src;
-PACK_DIR=package;
+SOURCE_DIR=../nativescript-bidipick;
+TO_SOURCE_DIR=nativescript-bidipick;
+PACK_DIR=publish;
 ROOT_DIR=..;
 PUBLISH=--publish
 
