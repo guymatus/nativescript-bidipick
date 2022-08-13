@@ -29,5 +29,8 @@
   "homepage": "https://github.com/guymatus/nativescript-bidipick#readme",
   "scripts": {
     "test": "exit 0"
+  },
+  "publishConfig": {
+    "@guymatus:registry": "https://npm.pkg.github.com"
   }
 }
