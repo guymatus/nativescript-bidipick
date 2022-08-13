@@ -1,6 +1,6 @@
 {
   "name": "nativescript-bidipick.git",
-  "version": "1.0.31",
+  "version": "1.0.35",
   "description": "Add a plugin description",
   "main": "index",
   "typings": "index.d.ts",
