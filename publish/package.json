@@ -1,6 +1,6 @@
 {
   "license": "Apache-2.0",
-  "name": "nativescript-bidipick.git",
+  "name": "@guymatus/nativescript-bidipick.git",
   "version": "1.0.6",
   "description": "Add a plugin description",
   "main": "index",
